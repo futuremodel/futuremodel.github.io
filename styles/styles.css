@@ -2,6 +2,12 @@ body {
 	background-color: #ffffff;
 }
 
+#main {
+	width: 800px;
+	margin: 0 25px;
+	text-align: center;
+}
+
 #splashlogo {
 	height: 50%;
 	width: 50%;
